@@ -1,6 +1,6 @@
 ---
 title: 'The Blood Altar'
-media_order: t1.jpg
+media_order: 't1.jpg,Automation.jpg'
 taxonomy:
     category:
         - docs
@@ -34,3 +34,7 @@ If you have The One Probe installed you can look at the Altar and hold Crouch to
 You will also notice that the Altar will fill up with red liquid the more LP you store in it. All tiers can only hold 10,000LP. To increase the capacity of the altar you will have to make Runes of capacity.
 
 Later on down the line, you will be making lots of Slates, these are crafted by putting stone in the Altar (right-clicking) with the required amount of LP. This can become very tedious but can be automated:
+
+![](Automation.jpg)
+
+Above is set up with one chest as the input (Right) and one as the output (Left). The output has a filter to only withdraw Blank Slates. This is a very simple method but can also get a little out of control, you need to ensure you have enough blood in the Altar for the amount of stone you put into the input chest. The Altar will pull out a max of 64 of the stones in the chest and craft all the blank slates at once. Hoppers can also be used for input. Note that, though multiple inputs can be inserted at once using this method, the LP cost of converting all inputs will need to be consumed before any will actually be converted. For example, if you insert an entire stack (64) of stone at once, the stack of blank slates will be produced, all at once, only once the LP requirement for 64x the cost of a single slate has been consumed, which naturally takes quite a while. Because of this, it may be wise to avoid inserting too many inputs at once, lest the process be interrupted (by premature item removal or running out of LP) and the LP cost of multiple products be wasted.  
