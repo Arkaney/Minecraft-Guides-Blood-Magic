@@ -1,5 +1,6 @@
 ---
 title: 'Strong Zombie'
+media_order: 'strong zombie.jpg'
 taxonomy:
     category:
         - docs
@@ -20,3 +21,4 @@ restaurant:
 
 Placing a block of coal on top of an Imperfect Ritual Stone and right-clicking it will drain 5000 LP and summon a strong Zombie (this zombie has 1 armor).
 
+![](strong%20zombie.jpg)
