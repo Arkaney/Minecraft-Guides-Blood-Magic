@@ -33,3 +33,5 @@ The above craft will not work as the Demonic Will has less than 1 “Will Qualit
 Use the forge to craft a Petty Tartaric Gem, make sure your Demonic Wil has more than 1 “Will Quality” otherwise your craft will not start.
 
 You can use JEI to find out how much Will is needed to craft certain recipes, you will also notice that some recipes have 2 values:
+
+The minimum is the minimum amount of Will needed to start the craft and Drained is how much Will shall be drained from your gem after the crafting has completed. Think of this as a requirement and a cost, you may require a certain amount of Will but the cost of the craft is different.
