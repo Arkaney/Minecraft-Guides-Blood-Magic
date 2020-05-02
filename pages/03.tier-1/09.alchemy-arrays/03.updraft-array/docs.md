@@ -19,3 +19,7 @@ restaurant:
 ---
 
 This array is very similar to the movement array using a feather (Reagent) and glowstone dust (Catalyst) in a blank array, this array will propel you around 5 blocks into the air:
+
+![](Updraft%20Array.jpg)
+
+Please note that you will take damage if you fall onto a hard surface after the initial bounce. Unlike the Movement Array, initial height before landing on this array will not affect bounce height. This does allow it to be used as something of a fall cushioner, aside from the couple hearts lost on final landing after the bounce.
