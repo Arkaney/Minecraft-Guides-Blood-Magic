@@ -20,3 +20,5 @@ restaurant:
 
 Placing a Lapis block on top of an Imperfect Ritual Stone and right-clicking it will drain 100 LP from your personal network and turn Day into night instantly.
 
+![](Turn%20Day%20to%20Night.jpg)
+
