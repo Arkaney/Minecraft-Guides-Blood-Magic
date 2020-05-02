@@ -26,9 +26,11 @@ Before you go attacking mobs with this sword you will want to throw it on the gr
 
 Currently, the sword is good as it is but as you upgrade your gems and collect more Demonic Will it will get more and more powerful but the Demonic Will must be in your inventory in a gem. 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+|              | Tier 0    |      Tier 1     |Tier 2| Tier 3| Tier 4 | Tier 5 | Tier 6 | Tier 7 |
+|--------------|-----------|-----------------|------|-------|--------|--------|--------|--------|
+| Will         |       0   |16               |  60  | 200   | 400    | 1000   | 2000   | 4000   |
+| Damage       |       6   |7                |  7.5 |   8   | 8.5    |  9     | 9.5    | 10     |
+| Attack Speed |       1.6 |1.6              |  1.6 |  1.6  |  1.6   |   1.6  |   1.6  |  1.6   |
 
+The sword can also be enchanted and enchanting looting on the sword will increase the amount of Will dropped.
+ 
