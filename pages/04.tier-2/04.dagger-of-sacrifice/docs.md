@@ -1,5 +1,6 @@
 ---
 title: 'Dagger of Sacrifice '
+media_order: 'Dagger of Sacrifice.jpg'
 taxonomy:
     category:
         - docs
@@ -26,3 +27,6 @@ The Dagger of Sacrifice must be used within about three blocks of the Blood Alta
 * Hostile Mobs (Creepers, Zombies, etc.) = 500 LP
 * Villagers = 2,000 LP
 
+![](Dagger%20of%20Sacrifice.jpg)
+
+Do note, however, that the Dagger only acts as a weapon when in range of the altar. Otherwise, it will be no more effective in killing mobs, and their Life Essence will not be transferred to an altar.
