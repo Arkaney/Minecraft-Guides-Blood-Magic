@@ -19,3 +19,4 @@ restaurant:
 ---
 
 We have a simple way of generating LP via the Orb and stabbing ourselves but this is still a very simple and long-winded way to generate LP, we can boost the power of our dagger and get bonus LP by simply using the Incense Altar:
+
