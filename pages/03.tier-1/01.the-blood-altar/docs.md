@@ -47,6 +47,6 @@ The I/O tank exists so pipes are not super overpowered, without the I/O tank you
 
 Altars can be pumped out of but without any modifier runes this will be at a rate of 20mb/t, and later on, the displacement rune will increase the amount of LP transferred per operation, each rune multiplies this by 1.2x, stacking multiplicatively. One rune will be 24LP, next would be 28.8LP 20 runes would be 767LP per operation.
 
->>>> Life Essence is not the same as Blood, the Blood you get from cows or NPCs in the smeltery (from Tinkers’ Construct mod) is not the same as Life Essence and can not be put into the Alta
+&#8321; Life Essence is not the same as Blood, the Blood you get from cows or NPCs in the smeltery (from Tinkers’ Construct mod) is not the same as Life Essence and can not be put into the Alta
 
 
