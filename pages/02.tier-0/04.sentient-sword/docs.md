@@ -26,3 +26,9 @@ Before you go attacking mobs with this sword you will want to throw it on the gr
 
 Currently, the sword is good as it is but as you upgrade your gems and collect more Demonic Will it will get more and more powerful but the Demonic Will must be in your inventory in a gem. 
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
