@@ -5,6 +5,9 @@ taxonomy:
         - docs
 twittercardoptions: summary
 articleenabled: false
+article:
+    datePublished: '02-05-2020 19:48'
+    dateModified: '02-05-2020 19:48'
 musiceventenabled: false
 orgaenabled: false
 orga:
