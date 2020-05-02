@@ -36,4 +36,4 @@ Once these white swirls appear, you can safely kill the mob and it may drop a De
 
 You will notice that the Demonic Will does not stack and that each Demonic Will has a quality attached to it. These can vary but are currently not important, even if you get a few with low stats (like 1.3) you can still use them. However, anything below 1 is not worth keeping. For now, collect as much as you can with the number of snares you have and then head back home
 
->>> Note: Mobs with higher health will drop Demonic Will with higher Will Quality, Endermen will have more than spiders, etc.
+>>>>> Mobs with higher health will drop Demonic Will with higher Will Quality, Endermen will have more than spiders, etc.
