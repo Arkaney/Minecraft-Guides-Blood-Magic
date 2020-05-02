@@ -1,5 +1,6 @@
 ---
 title: 'Tier 0'
+published: true
 taxonomy:
     category: docs
 twittercardoptions: summary
