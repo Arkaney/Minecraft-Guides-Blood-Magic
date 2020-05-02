@@ -20,3 +20,4 @@ restaurant:
 
 Placing a source block of water on top of an Imperfect Ritual Stone and right-clicking it will drain 5000 LP and will summon a Thunderstorm.
 
+![](Make%20it%20rain.jpg)
