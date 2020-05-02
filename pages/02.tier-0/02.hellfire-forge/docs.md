@@ -27,9 +27,8 @@ The 4 left outside slots are used for crafting materials, it does not matter whe
 
 When crafting the Demonic Will will not be consumed but it will lose its “Will Quality”. when you first start crafting you might notice that you have all the required ingredients but the Forge will not start the crafting process, this could be because the Demonic Will you are using does not have a high enough “Will Quality”
 
-![The above craft will not work as the Demonic Will has less than 1 “Will Quality”](Hellfire%20Forge%20Will.jpg)
-
-
+![](Hellfire%20Forge%20Will.jpg)
+The above craft will not work as the Demonic Will has less than 1 “Will Quality”
 
 Use the forge to craft a Petty Tartaric Gem, make sure your Demonic Wil has more than 1 “Will Quality” otherwise your craft will not start.
 
