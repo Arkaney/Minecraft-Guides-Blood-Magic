@@ -1,5 +1,8 @@
 ---
 media_order: 'snare.jpg,white swirling particles.jpg'
+taxonomy:
+    category:
+        - docs
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
