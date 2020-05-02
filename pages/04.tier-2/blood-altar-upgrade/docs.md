@@ -1,5 +1,6 @@
 ---
 title: 'Blood Altar Upgrade'
+media_order: 'Blood Altar Tier 2.jpg'
 taxonomy:
     category:
         - docs
@@ -24,3 +25,6 @@ Tip: Over-speeding your altar can result in running out of blood if you're depen
 
 These 8 Blank Runes must be placed underneath the Blood Altar, Right below the Altar should be left empty:
 
+![](Blood%20Altar%20Tier%202.jpg)
+
+The Tier 2 Altar looks different but still can only hold a maximum of 10000 LP.
