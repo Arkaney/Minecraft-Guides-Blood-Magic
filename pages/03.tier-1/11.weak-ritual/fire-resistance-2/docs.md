@@ -1,5 +1,6 @@
 ---
 title: 'Fire Resistance 2'
+media_order: 'Fire Resistance 2.jpg'
 taxonomy:
     category:
         - docs
@@ -19,4 +20,6 @@ restaurant:
 ---
 
 This ritual is different from the others, you will need to place an Imperfect Ritual Stone underneath bedrock (this can be done in the nether), once placed you can right-click the Imperfect Ritual Stone and you will gain fire resistance 2 for 1 minute.
+
+![](Fire%20Resistance%202.jpg)
 
