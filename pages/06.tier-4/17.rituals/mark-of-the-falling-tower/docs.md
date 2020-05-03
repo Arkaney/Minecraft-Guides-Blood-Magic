@@ -31,5 +31,8 @@ Shortly after the ritual is completed, a meteor full of ore will be generated. T
 
 ![](Mark%20of%20the%20Falling%20Tower.jpg)
 
+![](Mark%20of%20the%20Fallen%20Tower%20Reagents.png)
 
+On the left, a Diamond Tier meteor crashed into the Ritual. On the right, several meteors successively stopped using the Obsidian method, keeping the Ritual (and the Obsidian in the middle of the meteor) intact. The size of the meteor is determined by the reagent dropped on the Master Ritual Stone.
 
+Check your Config folder for your mod pack to find out how much the activators cost and if there are different ones.
