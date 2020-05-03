@@ -159,9 +159,38 @@ Boosts critical hit damage. Trained by damage done while critical hitting.
 ### Gift of Ignis 
 Provides Fire Resist when taking fire damage. Trained by taking fire damage.
 
+| Level                         | 1   | 2   | 3    |  4   | 5    |
+|-------------------------------|-----|-----|------|------|------|
+| Seconds of Fire Resist        | 30  | 30  | 40   | 50   | 60   |
+| Seconds between Fire Resist   | 300 | 300 | 240  | 180  | 120  |
+| Upgrade Points                | 2   | 6   | 14   | 25   | 40   |
 
+## Step Assist
+Allows you to walk up 1 block without jumping.
 
+| Level          | 1   |
+|----------------|-----|
+| Upgrade Points | 20  |
 
+### Elytra 
+An Elytra Living Armor Upgrade Tome is created by combining a book with an Elytra in an anvil (with the book in the first slot and the Elytra in the second) for 30 levels. The upgrade provides Elytra flight while holding down the jump key.
 
+| Level          | 1   |
+|----------------|-----|
+| Upgrade Points | 20  |
 
+### Repairing
+Trained by taking 500 durability damage on the Living Chestplate. Restores 1 durability on a random piece of equipped Living Armor every 200 ticks.
 
+| Level          | 1   |
+|----------------|-----|
+| Upgrade Points | 15  |
+
+### Nocturnal Prowess
+Trained by doing melee damage. Initial activation requires at least 3 minutes of Night Vision while in light level below 10. Gives Night vision and bonus damage while light level is below 10.
+
+| Level                  | 1   | 2   | 3   | 4   | 5   | 6   | 7    | 8    | 9    | 10   | 
+|------------------------|-----|-----|-----|-----|-----|-----|------|------|------|------|
+| Bonus Damage           | 0   | 0.5 | 1   | 1.5 | 2   | 2.5 | 3    | 4    | 5    | 6    |
+| Night Vision Level     | 1   | 1   | 1   | 1   | 1   | 1   | 1    | 1    | 1    | 1    |
+| Upgrade Points         | 5   | 8   | 15  | 20  | 34  | 45  | 70   | 100  | 150  | 200  |
