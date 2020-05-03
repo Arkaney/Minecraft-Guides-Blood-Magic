@@ -1,5 +1,6 @@
 ---
 title: 'Demon Will Aura Gauge'
+media_order: 'Demon Will Aura Gauge.jpg'
 taxonomy:
     category:
         - docs
@@ -23,3 +24,7 @@ Releasing Will into the aura and figuring out what aura has Will can be a tricky
 >>>>> If you don’t see it at first because your The One Probe display sat on top of it, you can go in the Config folder where you can modify the HUD Display to avoid overlaying.
 
 Having the aura values visible takes a lot of the guesswork out of crystal growing. They are displayed by pressing the “Sneak” button (Shift by default).
+
+![](Demon%20Will%20Aura%20Gauge.jpg)
+
+This will overlap when you are using the Divination Sigil, so it's a good idea to either keep the Aura Gauge in a bag when not using it or just put it away in storage until you need to use it.
