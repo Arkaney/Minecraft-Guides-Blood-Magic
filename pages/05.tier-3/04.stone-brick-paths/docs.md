@@ -1,5 +1,6 @@
 ---
 title: 'Stone Brick Paths'
+media_order: 'Stone Brick Paths.jpg'
 taxonomy:
     category:
         - docs
@@ -18,4 +19,8 @@ restaurant:
     priceRange: $
 ---
 
-Your page content goes here.
+The Incense Altar has already been upgraded once with Wooden Paths, now that you have access to the Magician's Blood Orb you will be able to extend the Incense Altar out again with Stone Brick Paths. 
+
+![](Stone%20Brick%20Paths.jpg)
+
+This will give you a further 64 spaces in which you can place more Tranquility Type blocks. The maximum bonus you can get at this level is 120%
