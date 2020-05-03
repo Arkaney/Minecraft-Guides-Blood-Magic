@@ -24,3 +24,4 @@ restaurant:
 
 This ritual will act like an instant teleportation system that works across dimensions. In order for these portals to link to each other they will need to have blocks touching the ritual stones, these blocks will act like a unique marker.
 
+![](The%20Gate%20of%20the%20Fold.jpg)
