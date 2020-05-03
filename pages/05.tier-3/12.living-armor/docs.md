@@ -1,5 +1,6 @@
 ---
 title: 'Living Armor'
+media_order: 'Living Armor - Random.jpg'
 taxonomy:
     category:
         - docs
@@ -28,3 +29,9 @@ There are a number of “upgrades” you can get for this armor and getting them
 
 Generally, after running around, you will get “Quick Feet” the first level of this will cost you 3 upgrade points. As you run around more or do different tasks you will gain other traits, after a while you will have a load of random traits and you will find you have quickly run out of upgrade points.
 
+![](Living%20Armor%20-%20Random.jpg)
+
+
+Holding Shift+M (by default) will show you the progress of these upgrade, this can help you find out what traits are close to levelling up. Remember as you level up these traits they will cost more and more upgrade points. Some of these traits will give you more bonuses as you level them up to higher levels.
+
+For now, you are going to have to live with whatever random “Enchants” you get as changing these will require the next tier Blood Altar.
