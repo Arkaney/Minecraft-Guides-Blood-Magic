@@ -19,7 +19,7 @@ restaurant:
 ---
 
 **Activation Cost**: 500LP  
-**Cost per water source created**: 25LP
+**Cost per water source created**: 25LP  
 Once activated this ritual will spawn a water source block on the Master Ritual Stone. By default this will spawn on top of the Master Ritual Stone.
 
 ![](Ritual%20of%20the%20Full%20Spring%E2%80%8B.jpg)
