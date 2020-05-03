@@ -1,5 +1,6 @@
 ---
 title: 'Well of Suffering'
+media_order: 'grave soil.jpg,trap mob.jpg,Adover ritual.jpg,altar on top.jpg,above Altar.jpg'
 taxonomy:
     category:
         - docs
@@ -29,3 +30,22 @@ The damage radius of the Altar is 10 blocks by default but this can also be conf
 
 ### Automation
 There is a way to keep this Ritual full of mobs without having to build any kind of complicated mob farm around it. The simple suggestion is to trap mobs within the glass and have them stand on Grave Soil (This is an item from Tinkers’ Construct):
+
+![](grave%20soil.jpg)
+
+You can then gather mobs (zombies work best) with a Capture Wand (from Not Enough Wands) and place them onto the Graveyard Soil. These mobs should then be named to stop them from despawning.
+
+![](trap%20mob.jpg)
+
+There are 4 spots around the ritual where this can be done, you can keep adding more and more mobs.
+
+![](Adover%20ritual.jpg)
+
+![](altar%20on%20top.jpg)
+
+This should keep your Altar topped up and there is no need to have rogue mobs running around, this can also be put over the top of an altar, I recommend going 4 blocks up and then placing the Master Ritual Stone.
+
+![](above%20Altar.jpg)
+
+It is a very good idea to place down a Sound Muffler from Extra Utilities 2, as the sound of a whole load of zombies taking damage can drive a person insane.
+
