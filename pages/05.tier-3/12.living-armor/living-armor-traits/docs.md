@@ -65,3 +65,22 @@ Provides knockback resistance and bonus health is listed in 1/2 hearts. Trained 
 
 ### Tough Skin 
 Provides protection. Trained by taking damage.
+
+| Level          | 1   | 2   | 3   | 4   | 5   | 6   | 7    | 8    | 9    | 10   | 
+|----------------|-----|-----|-----|-----|-----|-----|------|------|------|------|
+| Protection     | 10% | 30% | 40% | 50% | 60% | 70% | 75%  | 77%  | 80%  | 83%  |
+| Upgrade Points | 5   | 10  | 18  | 35 | 65   | 100 | 140  | 190  | 250  | 300  |
+
+### Healthy
+Provides increased health, listed in half hearts. Trained by restoring health.
+
+| Level          | 1   | 2   | 3   | 4   | 5   | 6   | 7    | 8    | 9    | 10   | 
+|----------------|-----|-----|-----|-----|-----|-----|------|------|------|------|
+| Bonus Heal     | 4   | 8   | 12  | 16  | 20  | 26  | 32   | 38   | 44   | 50   |
+| Upgrade Points | 5   | 12  | 20  | 35  | 49  | 78  | 110  | 160  | 215  | 320  |
+
+### Fierce Strike 
+Provides additional attack damage for melee attacks. Trained by dealing damage with Melee strikes.
+
+
+
