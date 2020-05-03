@@ -1,5 +1,6 @@
 ---
 title: 'Demon Crucible'
+media_order: 'Demon Crucible.jpg'
 taxonomy:
     category:
         - docs
@@ -22,3 +23,6 @@ The Demon Crucible is crafted in the Hellfire Forge. Its main use is to release 
 
 Once you have put down your Crucibles you will need to place a Tartaric gem into the Crucible by right-clicking the Crucible with the gem in hand. This gem should have at least 100 Will in it. Slowly but surely the Gem will empty into the Aura.
 
+![](Demon%20Crucible.jpg)
+
+It’s a good idea to show chunk boundaries (F3 + G) that way you can set a Crucible in each chunk. 
