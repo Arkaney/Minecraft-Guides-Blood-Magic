@@ -23,3 +23,7 @@ restaurant:
 This Ritual is used to create downgrades for the Living Armor. You will need to be wearing Living armor in order to get the upgrade, you will not get a tomb in your inventory if you are not wearing the armor and the ritual will just do nothing, this In order for this to function it needs a Chest and an Item frame, searching in JEI (Press “U” on the Master Ritual Stone).
 
 Each recipe had 2 main components, the Activator and the ingredients. The activator will never be consumed and must be in the Item frame, the ingredients will be consumed and must be put into the chest.
+
+![](Penance%20of%20the%20Leadened%20Soul.jpg)
+
+Once the ritual has been activated you will need to crouch on top of the Master Ritual Stone, this will then apply the Downgrade onto your Living Armor. You do not have to apply the first tier of the downgrade, you can just go for any level.
