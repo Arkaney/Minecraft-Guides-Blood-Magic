@@ -31,6 +31,7 @@ These tomes can be found in JEI as they may be different depending on your mod p
 
 ### Battle Hungry 
 Gives the player exhaustion every 20 ticks.
+
 | Level | 1 | 2 | 3 | 4 | 5 |
 |-------|---|---|---|---|---|
 | Delay (Ticks) |600 | 600 | 600 | 500 | 400 |
