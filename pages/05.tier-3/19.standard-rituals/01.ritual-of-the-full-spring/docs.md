@@ -19,6 +19,7 @@ restaurant:
 ---
 
 **Activation Cost**: 500LP
+
 **Cost per water source created**: 25LP
 Once activated this ritual will spawn a water source block on the Master Ritual Stone. By default this will spawn on top of the Master Ritual Stone.
 
