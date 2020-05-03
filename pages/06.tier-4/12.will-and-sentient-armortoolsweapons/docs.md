@@ -72,3 +72,69 @@ Increases Damage and grants absorption after mob death.
 #### Destructive Will
 Increases Damage, reduces Attack Speed
 
+|                           | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 |
+|---------------------------|--------|--------|--------|--------|--------|
+|                           | 16     | 60     | 200    | 400    | 1000   |
+| Damage Increase           | 2      | 3      | 4      | 5      | 6      |
+| Attack Speed Reduction    | -3.1   | -3.1   | -3.2   | -3.3   | -3.3   |
+
+
+### Sentient Bow
+The Sentient Bow’s arrows will have different effects depending on what type of Will you are using to “power” the bow. You will still need to have arrows in your inventory.
+
+| Will                      | Effect |
+|---------------------------|--------|
+| Corrosive                 | Applies poison |
+| Destructive               | Creates an explosion |
+| Vengeful                  | Applies slowness, fires with increased velocity |
+| Steadfast                 | Applies levitation |
+| No Will                   | Fires with a lower velocity |
+
+### Sentient Armor
+Different types of Will also buff the Sentient Armor by giving them different Effects and changing their Armor rating. The sentient armor will give extra protection depending on how much will you have.
+
+#### Raw Will
+Gives extra protection
+
+|                           | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 |
+|---------------------------|--------|--------|--------|--------|--------|--------|--------|--------|
+|                           | 30     | 200    | 600    | 1500   | 4000   | 6000   | 8000   | 16000  |
+| Armor Rating              | 0      | 0.25   | 0.5    | 0.6    | 0.7    | 0.75   | 0.85   | 0.9    |
+
+#### Destructive Will
+Gives + to Attack Damage and - To attack Speed
+
+|                           | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 |
+|---------------------------|--------|--------|--------|--------|--------|--------|--------|--------|
+|                           | 30     | 200    | 600    | 1500   | 4000   | 6000   | 8000   | 16000  |
+| Attack Speed (-)          | -2%    | -4%    | -6%    | -8%    | -10%   | -12%   | -14%   | -16%   |
+| Attack Damage (+)         | +3%    | +6%    | +9%    | +12%   | +15%   | +18%   | +22%   | +24%   |
+
+#### Vengeful Will
+Gives a speed boost depending on the amount of will
+
+|                           | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 |
+|---------------------------|--------|--------|--------|--------|--------|--------|--------|--------|
+|                           | 30     | 200    | 600    | 1500   | 4000   | 6000   | 8000   | 16000  |
+| Attack Speed (-)          | 5%     | 10%    | 15%    | 20%    | 25%    | 30%   | 35%     | 40%    |
+
+#### Steadfast Will
+Gives Knock Back Resistance and extra Amor rating
+
+|                           | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 | Tier 8 |
+|---------------------------|--------|--------|--------|--------|--------|--------|--------|--------|
+|                           | 30     | 200    | 600    | 1500   | 4000   | 6000   | 8000   | 16000  |
+| Knock Back Resistance     | 0.2    | 0.4    | 0.6    | 0.8    | 1      | 1      | 1      | 1      |
+| Armor Rating              | 0.25   | 0.5    | 0.6    | 0.7    | 0.75   | 0.85   | 0.9    | 0.95   |
+
+#### Corrosive Will
+Will remove Wither and Poison instantly.
+
+###Sentient Sword
+
+#### Steadfast Sentient Sword
+Steadfast Will gives your sword the ability to grant you absorption.
+
+
+
+
