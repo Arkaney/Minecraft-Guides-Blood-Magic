@@ -1,5 +1,6 @@
 ---
 title: 'Incense Altar (Obsidian Paths)'
+media_order: Paths.jpg
 taxonomy:
     category:
         - docs
@@ -22,3 +23,6 @@ By the time you reach this Tier of blood magic, it hardly seems worth the effort
 
 With the final Tier of Blood Altar, you will be able to craft Obsidian Paths, this can be used to extend your altar a further 2x3 area.
 
+![](Paths.jpg)
+
+With the Incense Altar fully upgraded you will have access to a further 128 blocks that can have modifiers placed onto them. This Altar will have a maximum bonus of 300%.
