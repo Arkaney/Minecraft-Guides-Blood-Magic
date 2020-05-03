@@ -1,5 +1,6 @@
 ---
 title: 'Ritual Tinkerer'
+media_order: 'info mod.jpg'
 taxonomy:
     category:
         - docs
@@ -23,3 +24,10 @@ The ritual tinker does what the name implies, it will allow you to tinker with a
 To fully grasp how the ritual tinkerer works this guide will cover examples with rituals, to find out more about these rituals please jump to this section that will give you more details such as activation cost and the rituals use.
 
 With the ritual Tinkerer in hand you can right click to cycle through the ability of the Ritual Tinkerer, the ritual will need to be active in order for it to give you information, you will also need to right click in the air not pointing at any blocks:
+
+![](info%20mod.jpg)
+
+### Information
+Right clicking a Master Ritual Stone with the Ritual Tinkerer while on information mode will give you more details on the Ritual and will also tell you what effects different types of will have on a ritual.
+
+
