@@ -18,4 +18,4 @@ restaurant:
     priceRange: $
 ---
 
-Your page content goes here.
+The Tier 5 altar will enable you to craft the last tier of Blood Orb - The Archmage Blood Orb, crafted by placing a Nether Star in the Blood Altar with 80,000 LP. This Blood Orb will expand your personal LP network to a whopping 10,000,000, which of course can be upgraded with runes.
