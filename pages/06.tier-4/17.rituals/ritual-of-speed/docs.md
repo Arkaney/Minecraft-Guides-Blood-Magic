@@ -24,3 +24,5 @@ restaurant:
 The Ritual of Speed, once activated, will launch approaching entities approximately 30 to 40 blocks away for a small Life Essence (LP) cost.
 
 Standing within the area defined by the ritual stones will launch the entity forward approximately 30 to 40 blocks in the direction of the Dusk Rune. During this launch, fall damage will not be applied.
+
+![](Ritual%20of%20Speed.jpg)
