@@ -1,5 +1,6 @@
 ---
 title: 'Demon Crystallizer'
+media_order: 'Demon Crystallizer.jpg'
 taxonomy:
     category:
         - docs
@@ -23,3 +24,6 @@ There is an easier way to collect these crystals, you're better off not smashing
 
 Because the central upright crystal takes 90-100 Will from the Aura to form, it’s significantly more expensive than the secondary spires, which normally cost 50 Will.  There are reasons that you may need to break the central spire, but only do so when you’re ready. 
 
+![](Demon%20Crystallizer.jpg)
+
+These crystals are normal will crystals they can be used for various crafting recipes and it is highly recommended that you set up a few of these Crystallizers in order to farm up as many of these crystals as possible.
