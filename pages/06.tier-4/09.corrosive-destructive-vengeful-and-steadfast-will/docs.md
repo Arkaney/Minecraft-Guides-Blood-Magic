@@ -70,7 +70,7 @@ Because of the similarity between Gathering of Forsaken Souls and Crack of the F
 
 ![](Blood%20Magic%20-%20Crystal%20Rituals%20compact.png)
 
-Here, you can see the 3 Rituals merged, with the Crystal range of the CFC and the Crystal range and the Damage range of the GFS. For now, the Veil of Evil seems to have an infinite range, however ineffective. So you can keep the idea of merging Rituals for this setup or others (do not try to merge the Master Ritual Stones, they can only handle 1 Ritual in a row), but this set up will still need a mob farm until the Veil of Evil is fully implemented. (The veil of evil does work you just need to use a tinkerer to set an area for it to effect)
+Here, you can see the 3 Rituals merged, with the <span style="color:blue">Crystal range</span> of the CFC and the Crystal range and the Damage range of the GFS. For now, the Veil of Evil seems to have an infinite range, however ineffective. So you can keep the idea of merging Rituals for this setup or others (do not try to merge the Master Ritual Stones, they can only handle 1 Ritual in a row), but this set up will still need a mob farm until the Veil of Evil is fully implemented. (The veil of evil does work you just need to use a tinkerer to set an area for it to effect)
 
 
 
