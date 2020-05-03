@@ -29,9 +29,9 @@ These new gems hold up to 1,024 Will, this also means that your sword will do mo
 
 |              | Tier 0 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7 |
 |--------------|--------|--------|--------|--------|--------|--------|--------|--------|
-| Will         |
-| Damage       |
-| Attack Speed |
+| Will         | 0      | 16     | 60     | 200    | 400    | 1000   | 2000   | 4000   |
+| Damage       | 6      | 7      | 7.5    | 8      | 8.5    | 9      | 9.5    | 10     |
+| Attack Speed | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    |
 
 This damage increase will only happen if you have a gem in your inventory with over 1,000 Will. You will not be able to stack gems as the sword will only count the highest amount of will in your inventory in 1 gem.
 
