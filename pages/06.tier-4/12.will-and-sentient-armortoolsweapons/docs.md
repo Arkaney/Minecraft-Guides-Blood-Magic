@@ -135,6 +135,43 @@ Will remove Wither and Poison instantly.
 #### Steadfast Sentient Sword
 Steadfast Will gives your sword the ability to grant you absorption.
 
+|                      | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7  |
+|----------------------|--------|--------|--------|--------|--------|--------|---------|
+| Damage               | 6      | 6.5    | 7      | 7.5    | 8      | 8.25   | 8.5     |
+| Attack Speed         | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    | 1.6     |
+| Absorption Time(sec) | 10     | 15     | 20     | 25     | 30     | 35     | 40      |
 
+Each Tier has a Will requirement:
 
+| Tier 0 | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7  |
+|--------|--------|--------|--------|--------|--------|--------|---------|
+| 0      | 16     | 60     | 200    | 400    | 1000   | 2000   | 4000    |
 
+>>>>> Each trigger of absorption grants a temporary half heart, stacking to 5 temporary hearts. Time is renewed for each trigger, and at the expiration of absorption up to two temporary hearts will be removed. The remaining temporary hearts will persist until damaged, but will still only stack to 5 temporary hearts with additional triggers.
+
+#### Vengeful Sentient Sword
+Vengeful Will increases your movement speed with the sword in hand.
+
+|                      | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7  |
+|----------------------|--------|--------|--------|--------|--------|--------|---------|
+| Damage               | 6      | 6.5    | 7      | 7.5    | 8      | 8.25   | 8.5     |
+| Attack Speed         | 1.9    | 2      | 2.2    | 2.2    | 2.4    | 2.4    | 2.5     |
+| Movement Speed       | +5%    | +10%   | +15%   | +20%   | +25%   | +30%   | +40%    |
+
+#### Destructive Sentient Sword
+Destructive Will gives your sword an increased amount of damage and reduces the swing speed.
+
+|                      | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7  |
+|----------------------|--------|--------|--------|--------|--------|--------|---------|
+| Damage               | 7.5    | 8.25   | 9      | 9.75   | 10.5   | 11.25  | 12      |
+| Attack Speed         | 1.4    | 1.3    | 1.2    | 1.1    | 1      | 1      | 1       |
+
+Corrosive Sentient Sword
+Corrosive Will gives your sword a type of Poison with each attack, the higher the tier (amount of Will) the higher the Poison Level and the longer the poison effect lasts for.
+
+|                      | Tier 1 | Tier 2 | Tier 3 | Tier 4 | Tier 5 | Tier 6 | Tier 7  |
+|----------------------|--------|--------|--------|--------|--------|--------|---------|
+| Damage               | 7      | 7.5    | 8      | 8.5    | 9      | 9.5    | 10      |
+| Attack Speed         | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    | 1.6    | 1.6     |
+| Poison level         | 1      | 1      | 1      | 2      | 2      | 2      | 2       |
+| Poison Time(sec)     | 1.25   | 2.5    | 3      | 4      | 5      | 6      | 7.5     |
