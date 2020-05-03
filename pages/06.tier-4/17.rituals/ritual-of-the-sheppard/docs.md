@@ -30,6 +30,7 @@ Demonic Will can also be configured with this Ritual:
 
 
 | Will Type | Effect |
+| --| -- |
 | Raw | Increases the speed of the ritual based on the total Will in the Aura |
 | Corrosive | Unimplemented |
 | Steadfast | Automatically breeds adults within its area using items in the connected chest |
