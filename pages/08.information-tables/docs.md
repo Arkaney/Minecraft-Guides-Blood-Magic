@@ -74,4 +74,56 @@ Sigils which have brief and spontaneous effects (like teleportation) are activat
 | Sigil of Compression | 4 | Compress 9 Items of a kind into their Block form until it remains less than 64 of them in your whole inventory. | 200 * |
 | Sigil of the Phantom Bridge | 4 | Create a 7x7 platform on which you can walk and build. The platform will follow your horizontal movements. Jumping won’t raise the level of the platform, walking on a Block above it will. Sneaking for 1 second will make the current platform vanish and a new one appears 1 Block below (in mid-air, sneaking creates also a platform right below you) | 100 * |
 
+### Incense Altar
+
+Here is al the Modifiers and Bonuses you can get with the Incense Altar:
+
+#### Tranquillity Types and Values
+
+| Tranquillity Type | Block | Value | 
+|-------------------|-------|-------|
+| Crop | Potatoes | 1 |
+|Crop | Carrots | 1 |
+Crop
+Wheat
+1
+Crop
+Nether Wart
+1
+Earthen
+Dirt
+0.25
+Earthen
+Grass
+0.5
+Earthen
+Farmland
+1
+Fire
+Fire
+1
+Fire
+Netherrack
+0.5
+Lava
+Lava
+1.2
+Plants
+Leaves
+1
+Tree
+Logs
+1
+Water
+Water
+1
+Water
+Flowing Water
+1
+Water
+Life Essence
+1.5
+ 
+
+
 
