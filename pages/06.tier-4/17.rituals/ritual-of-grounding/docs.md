@@ -22,3 +22,4 @@ restaurant:
 **Cost Per second**: 20LP  
 
 By Default this Ritual when activated will drag mobs to the ground and prevent them from jumping or floating up (like Blazes).
+
