@@ -1,6 +1,6 @@
 ---
 title: 'Transfer Nodes'
-media_order: 'Link Nodes.jpg,filters.jpg'
+media_order: 'Link Nodes.jpg,filters.jpg,basic system 1.jpg,basic system 2.jpg,basic system 3.jpg'
 taxonomy:
     category:
         - docs
@@ -43,5 +43,16 @@ Nodes linked to a Master Routing node will talk to each other, other nodes linke
 ### Basic System
 A very Basic system would be putting items from one inventory to another. First, we need 2 chests and a Master Routing Node, the Master Routing node does not have to be to close1 to the other nodes but it makes linking easier.
 
+![](basic%20system%201.jpg)
 
+Next, we need to have a Node that will take the items out of the connected chest and that node will need to be connected to the Master Routing Node. Once connected the Input Node will automatically pull from any chest in its vicinity.
 
+![](basic%20system%202.jpg)
+
+The final node is the output node, this will take the items out of our network and place them into the new chest (on the right). This will also need to be linked with Master Routing Node.
+
+![](basic%20system%203.jpg)
+
+This is a basic system and only costs a little will to run.
+
+>>>>> Nodes do not have a range limit but if you are stretching them over long distances it best to keep the chunks loaded that have the nodes, this works in theory but in reality, is very untested and could cause issues.
