@@ -84,45 +84,67 @@ Here is al the Modifiers and Bonuses you can get with the Incense Altar:
 |-------------------|-------|-------|
 | Crop | Potatoes | 1 |
 |Crop | Carrots | 1 |
-Crop
-Wheat
+| Crop | Wheat |1 |
+| Crop | Nether Wart | 1 |
+| Earthen | Dirt | 0.25 | 
+| Earthen | Grass | 0.5 |
+| Earthen | Farmland | 1 | 
+| Fire | Fire | 1 | 
+| Fire | Netherrack | 0.5 | 
+| Lava | Lava | 1.2 |
+| Plants | Leaves | 1 |
+| Tree | Logs | 1 | 
+| Water | Water | 1 |
+| Water | Flowing Water | 1 |
+| Water | Life Essence | 1.5 | 
+
+#### Tranquillity Bonus
+Each Tier of Incense Altar has a maximum tranquillity Bonus
+
+| Altar Level | Max Bonus |
+|-------------|-----------|
+| No Paths | 20% |
+| Wooden Paths | 60% |
+| Stone Brick Path | 120% |
+| Worn Brick Path | 200% |
+| Obsidian Path | 300% |
+
+### Altar Sizes
+
+| Path | Tier | Size | Blocks | New |
+| Wooden | 2 |  9x9 | 108 | |
+| Stone | 3 | 13x13 | 300 | 192 |
+| Worn Stone | 4 | 17x17 | 588 | 288 | 
+| Obsidian | 5 | 21x21 | 972 | 384 |
+
+### Blood Altar
+
+Tier
+New Runes
+Total Runes
+Description
 1
-Crop
-Nether Wart
-1
-Earthen
-Dirt
-0.25
-Earthen
-Grass
-0.5
-Earthen
-Farmland
-1
-Fire
-Fire
-1
-Fire
-Netherrack
-0.5
-Lava
-Lava
-1.2
-Plants
-Leaves
-1
-Tree
-Logs
-1
-Water
-Water
-1
-Water
-Flowing Water
-1
-Water
-Life Essence
-1.5
+0
+0
+Just the Blood Altar itself, with no runes
+2
+8
+8
+8 Runes surrounding the block directly below the altar. The four corner runes have no effect until you upgrade to tier 3 or higher.
+3
+20
+28
+5 more Runes per side, 2 blocks out and 1 block down from the previous tier. On the corners of this tier, a pillar of any material 2 blocks higher than the runes is necessary, with a Glowstone block on top of it.
+4
+28
+56
+7 more Runes per side, 2 blocks out and 1 block down from the previous tier. On the corners of this tier, one block away from the runes, a pillar of any material 4 blocks higher than the runes is necessary, with a Large Bloodstone Brick block on top of it.
+5
+52
+108
+13 more Runes per side, 3 blocks out and 1 block down from the previous tier. On the corners of this tier, one block away from the runes, a beacon is necessary.
+
+
  
 
 
