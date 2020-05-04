@@ -1,6 +1,6 @@
 ---
 title: 'The Blood Altar'
-media_order: 't1.jpg,Automation.jpg'
+media_order: t1.jpg
 taxonomy:
     category:
         - docs
@@ -26,6 +26,7 @@ There are 6 Tiers to the Blood Altar and at its biggest, it will be 17x17x 8 in 
 Tier one is simply the Blood Altar on the ground, there is nothing else needed to upgrade this Altar.
 
 ![](t1.jpg)
+
 In order to make any use of the Blood Altar, we will need to fill it with blood. Blood is referred to as LP (Life Points) and it's what you spend in the Blood Altar to craft items. There are a few ways to fill your Blood Altar, you will use the altar for the rest of the mod so it’s a good idea to go over all the ways that you can generate LP.
 
 Note: You do not have to stand right next to your Altar when trying to fill it up with LP.
