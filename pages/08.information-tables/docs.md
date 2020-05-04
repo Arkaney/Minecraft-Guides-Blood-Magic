@@ -411,6 +411,78 @@ Reduces arrow accuracy. Percentages describe the amount of deviation, where 100%
 | Accuracy | 4% | 8% | 12% | 16% | 20% |
 | Upgrade Points | -10 | -20 | -40 | -65 | -90
 
+### Rituals
+
+#### Basic
+These Rituals require an imperfect Ritual Stone at the bottom of them and can be activated with a right click:
+
+
+| Top Block | Effect | 
+|-----------|--------|
+| Lapis | Turns Day to night |
+| Bedrock | Fire Resistance 2 |
+| Coal | Summons a Strong Zombie |
+| Water Block | Makes it rain |
+
+####  Standard
+These rituals require a weak activation crystal to activate, a Master Ritual Stone or Inverted Master Ritual Stone. These rituals can be built with the Ritual Diviner:
+
+| Name | Effect | Activation Cost |
+|------|--------|-----------------|
+| Ritual of the Full Spring | Spawns water source on Master Ritual Stone | 500 LP |
+| Serenade of the Nether | Spawns lava source block on Master Ritual Stone | 20,000 LP |
+| Ritual of the Green Grove | Acts as bone meal in a 3x3 area 2 blocks above the Master Ritual Stone | 1,000 LP |
+| Interdiction Ritual | Repels mobs away from the master Ritual Stone | 1,000 LP |
+| Ritual of Containment | Pulls in and contains mobs above the Master Ritual Stone | 2,000 LP |
+| Ritual of High Jump | Mobs and players who step on the Master Ritual Stone are propelled upwards | 1,000 LP |
+| Ritual of Magnetism​ | Pulls ore blocks from below the Master Ritual Stone, area and type of ore is dependant on the activator block below the Master Ritual Stone. | 5,000 LP |
+| Ritual of the Satiated Stomach | Keeps players fed within its range (33x33x33), must be supplied with food. | 100,000 LP |
+| Call of the Zephyr | Sucks in items within its area and places them within a chest on the Master Ritual Stone. | 1,000 LP |
+| Le Vulcano Frigius | Summons 5 blocks of cobblestone above the Master Ritual Stone | 500 LP |
+| Crash of the Timberman | Cuts down trees within range of the Master Ritual Stone. | 20,000 LP | 
+| Laying of the Filler | Places blocks that are placed in a chest (placed on top of the Master Ritual Stone) within the ritual | 5,000 LP |
+| Ritual of Suppression | When activated will drain liquids in a 10 block radius, when turned off the liquids are replaced | 5,000 LP |
+
+
+####  Weak Dusk
+These rituals require a weak activation crystal to activate, a Master Ritual Stone or Inverted Master Ritual Stone. These rituals can be built with the Ritual Diviner (Dusk):
+
+| Name | Effect | Activation Cost |
+|------|--------|-----------------|
+| Cry of the Eternal Soul | Transfer LP from your personal network back into the blood Altar | 2,000,000 LP |
+| Reverence of the Condor | Gives players within its range flight | 1,000,000 LP |
+| Assembly of the High Altar | Creates a Blood Altar with blocks within a chest that is on the Master Ritual Stone | 500 LP |
+| Mark of the Falling Tower | Summons a meteor full of ore onto the ritual, size and ore types depending on the activator. | Depending on Activator |
+| Hymn of Syphoning | Pulls fluids within a 16 block radius and puts them into a connected tank. Fluids are replaced with stone | 500 LP |
+| Ritual of Speed | Launches entities 30-40 blocks in the direction of the ritual. | 1,000 LP |
+| Ritual of Grounding | Forces mobs to the ground and prevents jumping near the ritual | 5,000 LP |
+| The Gate of the Fold | Portal gates that work cross dimension, can be customised with blocks around the Ritual Stones | 50,000 LP |
+| Ritual of the Sheppard | Matures baby animals at an accelerated rate | 10,000 LP |
+| Ritual of the Crusher | Mines out a 3x3x3 area below the Master Ritual Stone | 2,500 LP |
+|Resonance of the Faceted Crystal | Grows will crystals (within a Crystalizer on top of the Master Ritual Stone) after 5 shards the Crystal splits and has a chance to grow different types of will Crystals. | 20,000 LP |
+| Reap of the Harvest Moon | Harvest mature plants within a range around the Master Ritual Stone | 20,000 LP |
+| Focus of the Ellipsoid | Builds a Sphere around the ritual with any blocks that the chest is supplied with | 20,000 LP |
+| Well of Suffering | Damages Mobs within range of the ritual and fills up a nearby Blood Altar with LP | 40,000 LP | 
+| Ritual of the Feathered Earth | Reduced fall damage down to 0 within the rituals range | 5,000 LP | 
+| Ritual of the Feathered Knife | Will damage players within a 31x31x41 range and fill the Blood Altar with LP, Never kills players | 50,000 LP | 
+| Crack of the Fractured Crystal | Breaks off Demon Will crystals but will always leave 1 spire | 40,000 LP |
+| Gathering of the Forsaken Souls | Damages Mobs with its range and speeds up will crystal growth. This will drain 2LP/s when active. | 40,000 LP |
+| Ritual of Regeneration | Cast regeneration within a 10 block range of the Master Ritual Stone | 40,000 LP |
+| Ritual of Expulsion | Teleports non-whitelisted plays 100 blocks away from the ritual. | 40,000 LP |
+
+####  Advanced Dusk
+These rituals require an awakened activation crystal to activate, a Master Ritual Stone or Inverted Master Ritual Stone. These rituals can be built with the Ritual Diviner (Dusk):
+
+
+| Name | Effect | Activation Cost |
+|------|--------|-----------------|
+| Ritual of Living Evolution | Upgrades the living armor to have 300 upgrade points | 50,000 LP Per Armor set upgraded |
+| Penance of the Leadened Soul | Adds downgrades to Living Armor depending on supplied ingredients | 10,000 LP per downgrade |
+| Sound of the Cleansing Soul | Clears all upgrades and downgrades from Living Armor | 25,000 LP Each time you downgrade your armor |
+
+
+
+
 
 
 
