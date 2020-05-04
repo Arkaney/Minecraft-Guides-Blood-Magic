@@ -3,7 +3,11 @@ title: 'Blood Magic - A Comprehensive Guide'
 taxonomy:
     category:
         - docs
+googletitle: 'Blood Magic - A Comprehensive Guide'
+twitterenable: true
 twittercardoptions: summary
+twittershareimg: /tier-1/blood-orb/orb%20crafting.jpg
+twittertitle: 'Blood Magic - A Comprehensive Guide'
 articleenabled: false
 musiceventenabled: false
 orgaenabled: false
@@ -16,6 +20,8 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+facebookenable: false
+facebooktitle: 'Blood Magic - A Comprehensive Guide'
 ---
 
 **What is this mod about?**
