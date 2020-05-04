@@ -112,6 +112,7 @@ Each Tier of Incense Altar has a maximum tranquillity Bonus
 ### Altar Sizes
 
 | Path | Tier | Size | Blocks | New |
+|------|------|------|--------|-----|
 | Wooden | 2 |  9x9 | 108 | |
 | Stone | 3 | 13x13 | 300 | 192 |
 | Worn Stone | 4 | 17x17 | 588 | 288 | 
@@ -119,30 +120,26 @@ Each Tier of Incense Altar has a maximum tranquillity Bonus
 
 ### Blood Altar
 
-Tier
-New Runes
-Total Runes
-Description
-1
-0
-0
-Just the Blood Altar itself, with no runes
-2
-8
-8
-8 Runes surrounding the block directly below the altar. The four corner runes have no effect until you upgrade to tier 3 or higher.
-3
-20
-28
-5 more Runes per side, 2 blocks out and 1 block down from the previous tier. On the corners of this tier, a pillar of any material 2 blocks higher than the runes is necessary, with a Glowstone block on top of it.
-4
-28
-56
-7 more Runes per side, 2 blocks out and 1 block down from the previous tier. On the corners of this tier, one block away from the runes, a pillar of any material 4 blocks higher than the runes is necessary, with a Large Bloodstone Brick block on top of it.
-5
-52
-108
-13 more Runes per side, 3 blocks out and 1 block down from the previous tier. On the corners of this tier, one block away from the runes, a beacon is necessary.
+| Tier | New Runes | Total Runes | Description |
+|------|-----------|-------------|-------------|
+| 1 | 0 | 0 | Just the Blood Altar itself, with no runes |
+| 2 | 8 | 8 | 8 Runes surrounding the block directly below the altar. The four corner runes have no effect until you upgrade to tier 3 or higher. |
+| 3 | 20 | 28 | 5 more Runes per side, 2 blocks out and 1 block down from the previous tier. On the corners of this tier, a pillar of any material 2 blocks higher than the runes is necessary, with a Glowstone block on top of it.|
+| 4 | 28 | 56 | 7 more Runes per side, 2 blocks out and 1 block down from the previous tier. On the corners of this tier, one block away from the runes, a pillar of any material 4 blocks higher than the runes is necessary, with a Large Bloodstone Brick block on top of it. |
+| 5 | 52 | 108 | 13 more Runes per side, 3 blocks out and 1 block down from the previous tier. On the corners of this tier, one block away from the runes, a beacon is necessary. | 
+
+### Blood Orbs
+
+| Orb | Tier | Capacity |
+|-----|------|----------|
+| Weak Blood Orb | 1 | 5000 |
+| Apprentice Blood Orb | 2 | 25,000 |
+| Magician's Blood Orb | 3 | 150,000 |
+| Master Blood Orb | 4 | 1,000,000 |
+| Archmage's Blood Orb | 5 | 10,000,000 |
+
+
+
 
 
  
