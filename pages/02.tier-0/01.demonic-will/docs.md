@@ -1,4 +1,5 @@
 ---
+title: 'Demonic Will'
 media_order: 'snare.jpg,white swirling particles.jpg'
 taxonomy:
     category:
