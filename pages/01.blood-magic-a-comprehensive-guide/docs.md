@@ -22,6 +22,7 @@ restaurant:
     priceRange: $
 facebookenable: false
 facebooktitle: 'Blood Magic - A Comprehensive Guide'
+facebookimg: /tier-1/blood-orb/orb%20crafting.jpg
 ---
 
 **What is this mod about?**
