@@ -25,7 +25,7 @@ The Hellfire Forge is used to craft recipes that require Demonic Will and other 
 
 The 4 left outside slots are used for crafting materials, it does not matter where these items go. The 5th middle slot is where your crafted item will appear, the far right side of the forge GUI has a bar that will fill up with Demonic Will when you start to craft. The right-hand slot is your fuel slot (Demonic Will in this case). 
 
-When crafting the Demonic Will will not be consumed but it will lose its “Will Quality”. when you first start crafting you might notice that you have all the required ingredients but the Forge will not start the crafting process, this could be because the Demonic Will you are using does not have a high enough “Will Quality”
+When crafting, the Demonic Will will not be consumed but it will lose its “Will Quality”. When you first start crafting, you might notice that you have all the required ingredients but the Forge will not start the crafting process. This could be because the Demonic Will you are using does not have a high enough “Will Quality”
 
 ![](Hellfire%20Forge%20Will.jpg)
 The above craft will not work as the Demonic Will has less than 1 “Will Quality”
